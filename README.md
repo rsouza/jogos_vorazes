@@ -35,7 +35,7 @@ Portanto:
  
  onde n é o número de jogadores vivos, todos os menbros da tribo recebem uma recompensa de comida com tamanho: 
  
- <a href="http://www.codecogs.com/eqnedit.php?latex=$&space;2*(n-1)&space;$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$&space;2*(n-1)&space;$" title="$ 2*(n-1) $" /></a>
+$ 2*(n-1) $
  
 Os jogadores vão acumulando uma variável "reputação", que é definida por:
 
